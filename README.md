@@ -1,6 +1,13 @@
-### Hi there 👋
-
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PatrickBrown1&hide=stars&count_private=true&show_icons=true">
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</div>
 <!--
+<div align="center">
+  <a href="https://navn.me" target="__blank"><img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=navn-r&bg_color=131516&hide_border=true&text_color=999083&title_color=ff6347&count_private=true"></a>
+  &nbsp;
+  <a href="https://navn.me" target="__blank"><img width="350" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=navn&langs_count=5&bg_color=131516&hide_border=true&text_color=999083&title_color=ff6347"></a>
+</div>
 **PatrickBrown1/PatrickBrown1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
