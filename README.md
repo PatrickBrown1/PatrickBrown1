@@ -1,8 +1,10 @@
 <div align="center">
-  <img align="center" width="300" height="200" src="https://github-readme-stats.vercel.app/api?username=PatrickBrown1&hide=stars&count_private=true&show_icons=true">
-  <img align="center" width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=PatrickBrown1&hide=stars&count_private=true&show_icons=true">
+  
 </div>
 <!--
+<img align="center" width="582" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+
 <div align="center">
   <a href="https://navn.me" target="__blank"><img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=navn-r&bg_color=131516&hide_border=true&text_color=999083&title_color=ff6347&count_private=true"></a>
   &nbsp;
